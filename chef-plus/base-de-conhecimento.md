@@ -9,7 +9,7 @@
 ## 1. Quem é a Chef+
 
 - **Negócio [A CONFIRMAR]:** fornecedor/distribuidor de insumos para **hamburguerias e food service**. Indícios nos criativos: "Tudo que sua Hamburgueria precisa", "quem não gosta de batata frita", "Molho Zafran", "Big Tasty", "Bacon Mister Beef", "Só com pães", "Entregas", "agilidade".
-- **Público-alvo provável:** donos de hamburguerias, lanchonetes e deliveries (B2B), próximos de cada unidade.
+- **Público-alvo (informado pela gestora em 13/11/2026):** pequenos empreendedores que buscam **renda extra**, com **baixo poder aquisitivo** e vocabulário simples e direto. Na prática, quem vende lanche em casa, em carrinho, trailer, lanchonete de bairro ou delivery, próximo de cada unidade. A comunicação deve evitar palavras difíceis. O agente `chef-plus-copy-video` tem o guia de linguagem e as palavras-chave desse público.
 - **Unidades (cada uma com seu próprio WhatsApp):**
 
 | Unidade | WhatsApp (final) | Observação |
